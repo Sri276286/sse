@@ -1,0 +1,14 @@
+.flex-container {
+    max-width: 100%;
+    max-height: 100%;
+    display: flex;
+    padding: 20px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+.box-wrap {
+    flex: 50%;
+}

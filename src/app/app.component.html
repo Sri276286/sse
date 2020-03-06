@@ -1,0 +1,5 @@
+<div class="flex-container">
+  <ng-container *ngFor="let item of inpArray">
+    <app-button-box [components]="inpArray" [componentNo]="item" class="box-wrap" (afterClick)="reload($event)"></app-button-box>
+</ng-container>
+</div>

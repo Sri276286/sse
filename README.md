@@ -1,4 +1,4 @@
-# SSE2
+# SSE
 UI Test for Senior Software engineers
 
 Instructions :

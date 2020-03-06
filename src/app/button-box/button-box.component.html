@@ -1,0 +1,6 @@
+<label>Component {{componentNo}}</label>
+<div class="flex-container">
+    <div class="button-wrap" *ngFor="let item of buttonArray">
+        <button (click)="buttonClick(item)">{{item}}</button>
+    </div>
+</div>
