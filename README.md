@@ -1,8 +1,8 @@
-# SSE
+# SSE2
 UI Test for Senior Software engineers
 
-Instructions : 
-  - - Don't commit to master branch
+Instructions :
+    - Don't commit to master branch
     - Create a fork
     - Commit your changes to fork
     - email us once you are done with test
